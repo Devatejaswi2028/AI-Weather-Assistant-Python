@@ -152,6 +152,6 @@ Through this project, I learned:
 # 👨‍💻 Author
 
 **Deva Tejaswi Jupudi**  
-_B.Tech – CSE (AI) Student_
+_B.Tech Student | Aspiring AI/ML Engineer | Python Developer_
 
 ---
